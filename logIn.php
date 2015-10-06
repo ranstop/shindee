@@ -94,7 +94,7 @@ http://www.templatemo.com/preview/templatemo_409_travel
                                     <input name="username" type="text" id="username" placeholder="Your Email"> 
                                 </p>
                                 <p>
-                                    <input name="password" type="text" id="password" placeholder="Password"> 
+                                    <input name="password" type="password" id="password" placeholder="Password"> 
                                 </p>
                                 
                                 <input type="submit" class="mainBtn" id="submit" value="Log In">
